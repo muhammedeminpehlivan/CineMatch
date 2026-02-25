@@ -17,30 +17,3 @@
 * **CSS3** - Custom animasyonlar ve modern UI/UX
 * **JavaScript (ES6+)** - Dinamik içerik yönetimi
 
-## 🛠️ Kurulum
-
-1.  Bu depoyu bilgisayarınıza indirin:
-    ```bash
-    git clone [https://github.com/kullaniciadi/proje-ismi.git](https://github.com/kullaniciadi/proje-ismi.git)
-    ```
-2.  Proje klasörüne gidin:
-    ```bash
-    cd proje-ismi
-    ```
-3.  Gerekli paketleri yükleyin:
-    ```bash
-    npm install
-    ```
-4.  Projeyi başlatın:
-    ```bash
-    npm start
-    ```
-
-## 📸 Ekran Görüntüleri
-*(Buraya uygulamanın en havalı görsellerini eklemeyi unutma!)*
-
-## 🤝 Katkıda Bulunma
-Bu proje geliştirilmeye devam etmektedir. Yeni fikirleriniz veya hata bildirimleriniz için lütfen "Issue" açmaktan veya "Pull Request" göndermekten çekinmeyin!
-
----
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
