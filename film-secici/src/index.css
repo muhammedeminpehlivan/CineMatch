@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+  /* Üstte karanlık bir filtre, altta ise sinema görseli */
+  background: linear-gradient(rgba(15, 12, 41, 0.85), rgba(36, 36, 62, 0.85)), 
+              url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=2070&auto=format&fit=crop');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Mobilde kaydırırken resim sabit durur, havalı görünür */
+  
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
